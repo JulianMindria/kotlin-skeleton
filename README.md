@@ -77,8 +77,6 @@ SettingItem.Switch(
 
 ## 📸 Screenshots
 
-*Add screenshots here once UI is finalized.*
-
 ---
 
 ## 🔮 Roadmap
