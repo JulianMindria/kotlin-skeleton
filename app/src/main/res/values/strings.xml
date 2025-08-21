@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Skeleton</string>
+    <string name="settings">Settings</string>
+
+    <string name="language">Language</string>
+    <string name="theme">Theme / Appearance</string>
+    <string name="notifications">Notifications</string>
+    <string name="account_profile">Account / Profile</string>
+    <string name="privacy_security">Privacy &amp; Security</string>
+    <string name="data_storage">Data &amp; Storage</string>
+    <string name="subscription_billing">Subscription / Billing</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="about">About</string>
+    <string name="feedback">Feedback &amp; Engagement</string>
+</resources>
