@@ -99,7 +99,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 
 MIT License. Free to use and modify.
-
----
-
-Do you want me to make this README **more like a Play Store–ready description** (user-focused) or keep it **developer-oriented boilerplate** (for GitHub)?
