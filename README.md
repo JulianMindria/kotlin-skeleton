@@ -76,7 +76,9 @@ SettingItem.Switch(
 ---
 
 ## 📸 Screenshots
-<p align="center"> <img src="https://drive.google.com/file/d/1clYHAnSRXdlQaEpbQsj99RzuB1wANEDI/view?usp=sharing" alt="Settings Screen" width="300"/> </p>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1clYHAnSRXdlQaEpbQsj99RzuB1wANEDI" alt="Settings Screen" width="300"/>
+</p>
 ---
 
 ## 🔮 Roadmap
